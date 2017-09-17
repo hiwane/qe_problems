@@ -1,7 +1,7 @@
 
 # Stats of input formulas
 
-lastupdate: Fri, 19 Jun 2015 09:30:15 +0900 (JST), c5f3949
+lastupdate: Sun, 17 Sep 2017 15:50:16 +0900 (JST), 1b7b3cd
 
 |                  file|idx|#v|#q|atom|poly|=,<>|<,<=|prenex|qdeg|fdeg|sotd|
 |:----|--:|--:|--:|--:|--:|--:|--:|:-:|--:|--:|--:|
@@ -16,6 +16,7 @@ lastupdate: Fri, 19 Jun 2015 09:30:15 +0900 (JST), c5f3949
 |hong97                | 2| 3| 3|  5| 5| 0| 5|o| 4| 0|226|
 |hong97                | 3| 3| 3|  8| 8| 0| 8|o| 4| 0|344|
 |kah75                 | 1| 5| 2|  4| 4| 1| 3|o| 2| 2|26|
+|kahle16               | 1| 4| 4| 15|15| 0|15|o| 1| 0|146|
 |lasserre01            | 1| 4| 3|  7| 7| 0| 7|o| 4| 1|27|
 |makepdq               | 1| 2| 1|  2| 2| 1| 1|o| 2| 2| 6|
 |makepdq               | 2| 3| 1|  2| 2| 1| 1|o| 2| 2| 9|
@@ -25,7 +26,7 @@ lastupdate: Fri, 19 Jun 2015 09:30:15 +0900 (JST), c5f3949
 |portfolio1            | 3| 5| 3|  5| 5| 2| 3|o| 2| 1|22|
 |weispfenning98        | 1| 5| 2|  3| 3| 3| 0|o| 2| 1| 8|
 |weispfenning98        | 2| 5| 2|  2| 2| 1| 1|o| 2| 2|24|
-|total                 |20|79|48| 90|89|27|63|20|65|23|1354|
+|total                 |21|83|52|105|104|27|78|21|66|23|1500|
 
 - `file`: file name
 - `idx`: index

@@ -1,14 +1,14 @@
 # Stats of input formulas
 
-lastupdate: Fri, 19 Jun 2015 09:30:18 +0900 (JST), c5f3949
+lastupdate: Sun, 17 Sep 2017 15:52:55 +0900 (JST), 6856076
 
 |file| #prob | prenex |
-|:--|--:|--:|--:|--:|--:|
+|:--|--:|--:|
 | chart |  24  |  5  |
-| exam |  250  |  126  |
+| exam |  267  |  136  |
 | olympic |  6  |  1  |
 | opt |  9 | 9 |
-| paper | 20 | 20 |
+| paper | 21 | 21 |
 | qebook | 10 | 10 |
 | toy | 12 | 12 |
-|total | 331 | 183 |
+|total | 349 | 194 |
